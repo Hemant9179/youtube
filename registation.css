@@ -1,0 +1,28 @@
+#form{
+
+    width: 350px;
+    margin-left: 40%;
+    border-style:double;
+    border: 20px;
+    background-color:rgb(210, 149, 210);
+    border-style:groove;
+    }
+   
+    #Registation{
+        text-align: center;
+        color: rgb(223, 20, 169);
+         font-style: italic;
+         font-size: 40px;
+    }
+    .menu{
+    width: 60%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    max-width: width 500px;
+
+}
+body{
+    background-color:cornflowerblue;
+}
